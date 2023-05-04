@@ -1,1 +1,1 @@
-# QR-scanner
+i created a QR code in javascript and html to come up with a similar QR code as for the challenge from the frontend mentor.
